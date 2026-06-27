@@ -10,3 +10,4 @@ wheels/
 .venv
 
 document.md
+blog.db
